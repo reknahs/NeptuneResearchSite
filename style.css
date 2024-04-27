@@ -77,6 +77,12 @@ img {
   margin: 0 auto;
   text-align: center;
 }
+img.dia {
+  height: 400px;
+  width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
 img.bhu {
   height: 300px;
   width: 200px;
