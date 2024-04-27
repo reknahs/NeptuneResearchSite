@@ -77,6 +77,18 @@ img {
   margin: 0 auto;
   text-align: center;
 }
+img.bhu {
+  height: 300px;
+  width: 200px;
+  margin: 0 auto;
+  text-align: center;
+}
+img.shanker {
+  height: 400px;
+  width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
 .responsive {
   max-width: 100%;
   height: auto;
